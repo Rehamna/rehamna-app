@@ -1,2 +1,2 @@
 # rehamna-app
-Rehamna is your smart research assistant.
+اسأل عن أي شيء، وستجد إجابة
